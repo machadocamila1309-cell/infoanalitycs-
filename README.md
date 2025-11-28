@@ -5,14 +5,14 @@ Pequeña aplicación en Python que permite analizar **datos numéricos** (`.csv`
 o **texto libre** (`.txt`) desde Google Colab, generando métricas básicas,
 gráficas y reportes automáticos.
 
-## Objetivo
+Objetivo
 
 Construir una aplicación en Python que lea archivos de datos o texto y genere
 análisis automáticos con métricas, frecuencias, visualizaciones simples
 (histogramas, diagramas de cajas y bigotes, violín, barras) y reportes exportados
 a archivo de texto.
 
-## Funcionalidades principales
+Funcionalidades principales
 
 - Cargar un archivo `.csv` (datos estructurados) o `.txt` (texto).
 - Analizar datos numéricos:
@@ -27,8 +27,8 @@ a archivo de texto.
 - Permitir al usuario elegir análisis **numérico** o **textual**.
 - Manejo básico de errores y validaciones del archivo.
 - Generar reportes `.txt` con resultados y rutas de las gráficas.
-
-## Estructura del proyecto
+- 
+ Estructura del proyecto
 
 ```text
 InfoAnalytics/
